@@ -1118,7 +1118,7 @@
                                 <h2 class="title mb-15">Get In Touch</h2>
                                 <p><b>Ready to Take the Next Step?</b><br />
 
-                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
+                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Forsk Coding School. Contact us today to explore the courses that will shape your future in IT.</p>
                             </div>
                             <div id="form-messages"></div>
                             <form method="post" action="./process.php">

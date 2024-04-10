@@ -25,23 +25,23 @@
 
     <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development),
         Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science
-        Certification & Training Course - Dmart Skill Education</title>
+        Certification & Training Course - Forsk Coding School</title>
 
     <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture" />
     <meta name="description" content="<p>Dmart Skil Education is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
     stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
     ">
     <link rel="canonical" href="https://dmartskilleducation.com/" />
-    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Dmart Skill Education">
-    <meta name="copyright" content="Dmart Skill Education" />
+    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Forsk Coding School">
+    <meta name="copyright" content="Forsk Coding School" />
 
 
-    <meta name="author" content="Dmart Skill Education Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+    <meta name="author" content="Forsk Coding School Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
 
-    <meta property="og:site_name" content="Dmart Skill Education">
+    <meta property="og:site_name" content="Forsk Coding School">
     <meta property="og:url" content="https://dmartskilleducation.com">
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Dmart Skill Education, Software Development, Web Desinging and Development Training Center">
+    <meta property="og:title" content="Forsk Coding School, Software Development, Web Desinging and Development Training Center">
     <meta property="og:description" content="<p>Dmart Skill Eucation is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
     stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
     ">
@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a href="tel:+91 8764420489"> +91 8764420489</a>
                                 </li>
                             </ul>
-                        </div>
+                        </div>  
                         <div class="col-md-7 text-right">
                             <ul class="toolbar-sl-share">
                                 <li class="opening"> <i class="flaticon-location"></i>2nd Floor, Plot No 122/66 A, Mansarovar, Jaipur, Rajasthan 302020 </li>
@@ -159,7 +159,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="logo-part">
                                     <a href="#">
                                         <!-- <img src="assets/images/logo-green.png" alt=""> -->
-                                        <h3 style="color:#0c8b51">Dmart Skill Education</h3>
+                                        <h3 style="color:#0c8b51">Forsk Coding School</h3>
                                     </a>
                                 </div>
                             </div>

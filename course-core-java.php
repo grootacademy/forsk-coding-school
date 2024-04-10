@@ -85,9 +85,9 @@
                                                 <li>Entrepreneurs: Tech enthusiasts aiming to establish tech ventures in Jaipur.</li>
                                             </ul>
                                             <h3>Your Jaipur Tech Journey Begins Here:</h3>
-                                            <p>With Dmart Skill Education's java Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p>
+                                            <p>With Forsk Coding School's java Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p>
                                             <h3>Get in Touch:</h3>
-                                            <p>With Dmart Skill Education's Seize the opportunity to excel in Jaipur's tech industry. Enroll in our Core Java course today and unlock a world of possibilities in the Pink City.</p> <!--                                           
+                                            <p>With Forsk Coding School's Seize the opportunity to excel in Jaipur's tech industry. Enroll in our Core Java course today and unlock a world of possibilities in the Pink City.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -953,7 +953,7 @@
                                 <h2 class="title mb-15">Get In Touch</h2>
                                 <p><b>Ready to Take the Next Step?</b><br />
 
-                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
+                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Forsk Coding School. Contact us today to explore the courses that will shape your future in IT.</p>
                             </div>
                             <div id="form-messages"></div>
                             <form method="post" action="./process.php">

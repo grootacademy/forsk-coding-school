@@ -46,7 +46,7 @@
                                     <li>256 Reviews</li>
                                 </ul>
                                 <h5>About Satnam Sir</h5>
-                                <p>Satnam Singh, a distinguished Software Architect with an impressive tenure of 10 years in the tech industry, stands as a guiding force in the realm of software development. Currently spearheading innovation as Chief Instructor & Trainer at Dmart Skill Education, Satnam's journey is a testament to his unwavering commitment to technological advancement and education</p>
+                                <p>Satnam Singh, a distinguished Software Architect with an impressive tenure of 10 years in the tech industry, stands as a guiding force in the realm of software development. Currently spearheading innovation as Chief Instructor & Trainer at Forsk Coding School, Satnam's journey is a testament to his unwavering commitment to technological advancement and education</p>
                                 <div class="team-skill mb-50">
                                     <h3 class="skill-title">Our Teacher Skill:</h3>
                                     <div class="row">
@@ -89,8 +89,8 @@
                                 </p>
                             </div>
                             <div class="content-part">
-                                <h3 class="title">Pioneering Education at Dmart Skill Education:</h3>
-                                <p>As the Chief Instructor & Trainer at Dmart Skill Education, Satnam embodies the fusion of practical expertise and educational prowess. His role extends beyond imparting knowledge; it's about inspiring learners to excel, innovate, and conquer challenges in the ever-evolving tech landscape.
+                                <h3 class="title">Pioneering Education at Forsk Coding School:</h3>
+                                <p>As the Chief Instructor & Trainer at Forsk Coding School, Satnam embodies the fusion of practical expertise and educational prowess. His role extends beyond imparting knowledge; it's about inspiring learners to excel, innovate, and conquer challenges in the ever-evolving tech landscape.
                                 </p>
                             </div>
                             <div class="content-part">
@@ -100,7 +100,7 @@
                             </div>
                             <div class="content-part">
                                 <h3 class="title">A Beacon of Inspiration:</h3>
-                                <p>Satnam's journey is a testament to the possibilities that unfold when innovation, determination, and education intersect. He envisions a future where technology is a force for good, and his role at Dmart Skill Education is a conduit to realize this vision.
+                                <p>Satnam's journey is a testament to the possibilities that unfold when innovation, determination, and education intersect. He envisions a future where technology is a force for good, and his role at Forsk Coding School is a conduit to realize this vision.
                                 </p>
                             </div>
                             <div class="content-part">

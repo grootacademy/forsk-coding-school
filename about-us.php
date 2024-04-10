@@ -30,9 +30,9 @@
 				</div>
 				<div class="col-lg-6 pr-70 md-pr-15">
 					<div class="sec-title">
-						<div class="sub-title orange">Welcome to Dmart Skill Education - Where Knowledge Meets Excellence</div>
+						<div class="sub-title orange">Welcome to Forsk Coding School - Where Knowledge Meets Excellence</div>
 						<h2 class="title mb-17">Our Story</h2>
-						<div class="bold-text mb-22 text-align-js">With a legacy of 15 years in the education industry, Dmart Skill Education stands as a testament to unwavering commitment, innovation, and transformative learning experiences. From our humble beginnings to becoming a leading IT training institute in Jaipur, our journey has been defined by a passion for empowering individuals to excel in the ever-evolving world of technology.</div>
+						<div class="bold-text mb-22 text-align-js">With a legacy of 15 years in the education industry, Forsk Coding School stands as a testament to unwavering commitment, innovation, and transformative learning experiences. From our humble beginnings to becoming a leading IT training institute in Jaipur, our journey has been defined by a passion for empowering individuals to excel in the ever-evolving world of technology.</div>
 
 					</div>
 				</div>
@@ -50,14 +50,14 @@
 						<div class="video-wrap">
 							<a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
 								<i class="fa fa-play"></i>
-								<h4 class="title mb-0">Take a Video Tour at Dmart Skill Education</h4>
+								<h4 class="title mb-0">Take a Video Tour at Forsk Coding School</h4>
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-6 pl-62 pt-134 pb-150 md-pt-50 md-pb-50 md-pl-15">
 						<div class="sec-title mb-40 md-mb-20">
 							<h2 class="title mb-16">Our Mission:</h2>
-							<div class="desc text-align-js">At Dmart Skill Education, our mission is to bridge the gap between ambition and achievement. We believe that education is not just about imparting knowledge; it's about nurturing potential, fostering creativity, and nurturing the skills needed to thrive in a dynamic global landscape.</div>
+							<div class="desc text-align-js">At Forsk Coding School, our mission is to bridge the gap between ambition and achievement. We believe that education is not just about imparting knowledge; it's about nurturing potential, fostering creativity, and nurturing the skills needed to thrive in a dynamic global landscape.</div>
 						</div>
 						<div class="btn-part">
 							<a class="readon2 orange" href="#">Apply Now</a>
@@ -137,7 +137,7 @@
 						<div class="tab-pane tab fade show active" id="about-history" role="tabpanel" aria-labelledby="about-history-tab">
 							<div class="sec-title mb-25">
 								<h2 class="title">Founding Years:</h2>
-								<div class="desc text-align-js">Dmart Skill Education was established with a vision to bridge the gap between education and industry demands. In our early years, we recognized the need for practical, hands-on learning experiences that prepare individuals for the dynamic world of technology. With this vision in mind, we embarked on a path of creating a learning environment that fosters creativity, critical thinking, and skill development.</div>
+								<div class="desc text-align-js">Forsk Coding School was established with a vision to bridge the gap between education and industry demands. In our early years, we recognized the need for practical, hands-on learning experiences that prepare individuals for the dynamic world of technology. With this vision in mind, we embarked on a path of creating a learning environment that fosters creativity, critical thinking, and skill development.</div>
 							</div>
 							<div class="tab-img">
 								<img class="" src="assets/images/about/tab1.jpg" alt="Tab Image">
@@ -555,7 +555,7 @@
 					<div class="donation-part">
 						<img src="assets/images/donor/1.jpg" alt="">
 						<h4 class="title mb-10">"Your Donations Make a Difference"</h4>
-						<div class="desc mb-38 text-align-js">At Dmart Skill Education, we believe in the power of education to transform lives. Your generous donations directly contribute to providing quality education, innovative learning experiences, and skill enhancement opportunities to individuals from diverse backgrounds. With your support, we can continue to nurture talent, foster creativity, and empower individuals to excel in the world of technology. Your contributions are an investment in a brighter future for learners and our community as a whole. Join us in making a positive impact through education.</div>
+						<div class="desc mb-38 text-align-js">At Forsk Coding School, we believe in the power of education to transform lives. Your generous donations directly contribute to providing quality education, innovative learning experiences, and skill enhancement opportunities to individuals from diverse backgrounds. With your support, we can continue to nurture talent, foster creativity, and empower individuals to excel in the world of technology. Your contributions are an investment in a brighter future for learners and our community as a whole. Join us in making a positive impact through education.</div>
 						<div class="btn-part">
 							<a class="readon2 orange" href="#">Become a donor</a>
 						</div>
@@ -569,7 +569,7 @@
 						</div>
 						<div class="content-part new-content pt-12">
 
-							<div class="desc text-align-js">Supporting Dmart Skill Education has been a rewarding experience. Seeing the impact of our contribution in shaping young minds and empowering them with valuable skills fills us with pride. We're confident that our investment in education will pave the way for a brighter future.</div>
+							<div class="desc text-align-js">Supporting Forsk Coding School has been a rewarding experience. Seeing the impact of our contribution in shaping young minds and empowering them with valuable skills fills us with pride. We're confident that our investment in education will pave the way for a brighter future.</div>
 							<div class="info">
 								<h5 class="name">Rajan Arora</h5>
 								<div class="designation">Professor @ IIT, Roorkee</div>
@@ -581,7 +581,7 @@
 							<img src="assets/images/our-supporter/R._Balasubramanian.jpg" alt="">
 						</div>
 						<div class="content-part new-content pt-12">
-							<div class="desc">Being a part of Dmart Skill Education's journey as a donor has been truly fulfilling. The institute's commitment to providing quality education and fostering innovation aligns perfectly with our philanthropic goals. It's heartening to witness the positive changes our support brings to the lives of learners.</div>
+							<div class="desc">Being a part of Forsk Coding School's journey as a donor has been truly fulfilling. The institute's commitment to providing quality education and fostering innovation aligns perfectly with our philanthropic goals. It's heartening to witness the positive changes our support brings to the lives of learners.</div>
 							<div class="info">
 								<h5 class="name">R. Balasubramanian</h5>
 								<div class="designation">Professor @ IIT, Roorkee</div>

@@ -68,8 +68,7 @@
                       <ul class="address-widget">
                           <li>
                               <i class="flaticon-location"></i>
-                              <div class="desc">D Mart, IHITC Durgapur,
-                                  Mansarovar, Jaipur, Rajasthan 302020 </div>
+                              <div class="desc">  Forsk Technologies, M13, Startup Oasis, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022 </div>
                           </li>
                           <li>
                               <i class="flaticon-call"></i>

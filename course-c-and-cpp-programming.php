@@ -52,7 +52,7 @@
                                     <div class="course-overview">
                                         <div class="inner-box">
                                             <h4>Welcome to the World of C and C++ Programming Excellence</h4>
-                                            <p>Are you ready to embark on a journey that unlocks the power of coding, paving the way for innovation and creativity? Welcome to Dmart Skill Education's comprehensive C and C++ Programming Course. Whether you're an aspiring programmer or looking to broaden your coding horizons, this course is designed to equip you with the skills, knowledge, and confidence to excel in the dynamic world of software development.
+                                            <p>Are you ready to embark on a journey that unlocks the power of coding, paving the way for innovation and creativity? Welcome to Forsk Coding School's comprehensive C and C++ Programming Course. Whether you're an aspiring programmer or looking to broaden your coding horizons, this course is designed to equip you with the skills, knowledge, and confidence to excel in the dynamic world of software development.
                                             <h4>Course Overview:</h4>
                                             <p>Our C and C++ Programming Course is a deep dive into the building blocks of coding. We understand that a strong foundation is crucial for anyone aspiring to thrive in the programming realm. With a curriculum carefully crafted by industry experts, we take you from the basics of coding to advanced concepts, ensuring you develop a robust skill set that's highly sought after in the tech industry.</p>
                                             <ul class="student-list">
@@ -91,9 +91,9 @@
                                                 <li>Hobbyists interested in software development.</li>
                                             </ul>
                                             <h3>Your Coding Odyssey Begins Here:</h3>
-                                            <p>With Dmart Skill Education's C and C++ Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p>
+                                            <p>With Forsk Coding School's C and C++ Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p>
                                             <h3>Get in Touch:</h3>
-                                            <p>With Dmart Skill Education's C and C++ Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p> <!--                                           
+                                            <p>With Forsk Coding School's C and C++ Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -708,7 +708,7 @@
                                 <h2 class="title mb-15">Get In Touch</h2>
                                 <p><b>Ready to Take the Next Step?</b><br />
 
-                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
+                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Forsk Coding School. Contact us today to explore the courses that will shape your future in IT.</p>
                             </div>
                             <div id="form-messages"></div>
                             <form method="post" action="./process.php">

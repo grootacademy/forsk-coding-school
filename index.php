@@ -70,7 +70,7 @@
                     <div class="banner-content">
                         <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Freelancer Courses</div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="3000ms">We
-                            You Can Give Your Career A Flair For Success With Dmart Skill Education.
+                            You Can Give Your Career A Flair For Success With Forsk Coding School.
 
                         </h1>
                         <div class="banner-btn wow fadeInUp" data-wow-delay="1500ms" data-wow-duration="2000ms">
@@ -582,6 +582,112 @@
         </div>
     </div>
     <!-- faq Section Start -->
+
+
+    <!-- new page 1 from old site Start  -->
+
+    <div class="rs-new-page ">
+        <div class="rs-new-page-learn-to-code" style="">
+            <img height="120px" width="120px" src=".//assets/images/download/learntocode.png" alt="">
+            <h3 style="margin-top: 10px;">Learn To Code</h3>
+            <hr>
+            <p>
+                Coding in its most essential form is nothing but problem solving. It deals with figuring out logical solutions and implementing them optimally. The process of learning to code, transforms a person into an analytical thinker with strong mathematical and logical skills.
+            </p>
+        </div>
+        <div class="rs-new-page-learn-to-code" style="border: 1px solid black; padding: 10px; display: flex; align-items: center;flex-direction: column; height: 450px; width:300px;">
+            <img height="120px" width="120px" src=".//assets/images/download/realprojectskill.png" alt="">
+            <h3 style="margin-top: 10px;">Real Project Skills</h3>
+            <hr>
+            <p>
+                Forsk Coding School is well known for its unique "Project-Based Learning" approach. From the day one of training, we are involving students in capstone projects for understanding the real-time environments
+            </p>
+        </div>
+        <div class="rs-new-page-learn-to-code" style="border: 1px solid black; padding: 10px; display: flex; align-items: center;flex-direction: column; height: 450px; width:300px;">
+            <img height="120px" width="120px" src=".//assets/images/download/seniormentor.png" alt="">
+            <h3 style="margin-top: 10px;">Senior Mentors</h3>
+            <hr>
+            <p>
+                Our team of mentors have very rich industry experience. Team is dedicated to learner success and imparts the knowledge you need to pursue your dream career. Mentorship is not about us; it is about you. It is about what you want to achieve and what you would do to get there.
+            </p>
+        </div>
+        <div class="rs-new-page-learn-to-code" style="border: 1px solid black; padding: 10px; display: flex; align-items: center;flex-direction: column; height: 450px; width:300px;">
+            <img height="120px" width="120px" src=".//assets/images/download/gethired.png" alt="">
+            <h3 style="margin-top: 10px;">Get Hired</h3>
+            <hr>
+            <p>
+                Forsk is tech talent provider to lot of startups and big companies. Our team is dedicated to finding the high paying internships and jobs you want. Through our extensive search and partnering with companies, we provide top opportunities to our learners.
+            </p>
+        </div>
+    </div>
+
+    <!-- new page 1 from old site End  -->
+
+    <!--  Blueprint For Your Success Start  -->
+
+    <div class="blueprint-for-your-success">
+        <div class="01">
+            <h2 class="number">01</h2>
+            <h3 class="text" >Learner-First Approach</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">02</h2>
+            <h3 class="text">Career in Tech Industry</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">03</h2>
+            <h3 class="text">Personal <br>Pre-Assessment</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">04</h2>
+            <h3 class="text">Anytime <br> Learning</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">05</h2>
+            <h3 class="text">Resume Preparation</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">06</h2>
+            <h3 class="text">Professional <br> Profile</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">07</h2>
+            <h3 class="text">Interview Preparation</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">08</h2>
+            <h3 class="text"  > Mock <br> Interview </h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">09</h2>
+            <h3 class="text">Live <br> Interview</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">10</h2>
+            <h3 class="text">Feedback, Improvement</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">11</h2>
+            <h3 class="text">Get The <br> Job</h3>
+        </div>
+
+        <div class="01">
+            <h2 class="number">12 </h2>
+            <h3 class="text">Post Job Mentorship</h3>
+        </div>
+    </div>
+
+    <!-- Blueprint For Your Success End  -->
 
     <!-- Testimonial Section Start -->
     <div class="rs-testimonial home12-style" data-aos="zoom-in">

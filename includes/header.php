@@ -122,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <header id="rs-header" class="rs-header">
             <!-- Topbar Area Start -->
             <div class="topbar-area home11-topbar">
-                <div class="container">
+                <div class="container  ">
                     <div class="row y-middle">
                         <div class="col-md-5">
                             <ul class="topbar-contact">
@@ -132,17 +132,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </li>
                                 <li>
                                     <i class="fa flaticon-call"></i>
-                                    <a href="tel:+91 8764420489"> +91 8764420489</a>
+                                    <a href="tel:+91 8764420489"> +91 8764406928</a>
                                 </li>
                             </ul>
                         </div>  
                         <div class="col-md-7 text-right">
                             <ul class="toolbar-sl-share">
-                                <li class="opening"> <i class="flaticon-location"></i>2nd Floor, Plot No 122/66 A, Mansarovar, Jaipur, Rajasthan 302020 </li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li class="opening"> <i class="flaticon-location"></i>M13, Startup Oasis, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022 </li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li> -->
                             </ul>
                         </div>
                     </div>

@@ -527,7 +527,7 @@
 
                                         <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false">Do we offer online classes?</a>
                                     </div>
-                                    <div id="collapseTwo" class="collapse" data-parent="#accordion" style="">
+                                    <div id="collapseTwo" class="collapse" data-parent="#accordion"  >
                                         <div class="card-body">
                                             We provide online and offline classes both. Our Recommendation is join our offline classes.
                                         </div>
@@ -538,7 +538,7 @@
 
                                         <a class="card-link collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false">Does Dmart offer internship?</a>
                                     </div>
-                                    <div id="collapseThree" class="collapse" data-parent="#accordion" style="">
+                                    <div id="collapseThree" class="collapse" data-parent="#accordion" >
                                         <div class="card-body">
                                             Yes, We Offer internships in various technologies. But there is certain criteria to get internship.
                                         </div>
@@ -587,7 +587,7 @@
     <!-- new page 1 from old site Start  -->
 
     <div class="rs-new-page ">
-        <div class="rs-new-page-learn-to-code" style="">
+        <div class="rs-new-page-learn-to-code" >
             <img height="120px" width="120px" src=".//assets/images/download/learntocode.png" alt="">
             <h3 style="margin-top: 10px;">Learn To Code</h3>
             <hr>

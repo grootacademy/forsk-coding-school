@@ -79,7 +79,7 @@
                           <li>
                               <i class="flaticon-email"></i>
                               <div class="desc">
-                                  <a href="mailto:support@rstheme.com">info@dmartskilleducation.com</a>
+                                  <a href="mailto:info@forskcodingschool.com">info@forskcodingschool.com</a>
                               </div>
                           </li>
                       </ul>

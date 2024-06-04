@@ -68,7 +68,7 @@
                       <ul class="address-widget">
                           <li>
                               <i class="flaticon-location"></i>
-                              <div class="desc">  Forsk Technologies, M13, Startup Oasis, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022 </div>
+                              <div class="desc"> Bambala Pulia, 3rd Floor Ram Nagar, Engineers Academy Building, 100-102, Tonk Rd, near Jaipuria Mgt College, Pratap Nagar, Jaipur, Rajasthan 302033 </div>
                           </li>
                           <li>
                               <i class="flaticon-call"></i>

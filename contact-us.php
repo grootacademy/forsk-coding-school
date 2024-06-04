@@ -14,7 +14,7 @@
                             </div>
                             <div class="content-part">
                                 <h5 class="info-subtitle">Address</h5>
-                                <h6 class="info-title">2nd Floor, , Plot No 122/66 A, Chauraha, Vijay Path, near Madhyam Marg, opp. Ram Tirth Marg, Mansarovar, Jaipur, Rajasthan 302020 </h6>
+                                <h6 class="info-title">Bambala Pulia, 3rd Floor Ram Nagar, Engineers Academy Building, 100-102, Tonk Rd, near Jaipuria Mgt College, Pratap Nagar, Jaipur, Rajasthan 302033 </h6>
                             </div>
                         </div>
                     </div>

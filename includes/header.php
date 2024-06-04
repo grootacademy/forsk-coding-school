@@ -138,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>  
                         <div class="col-md-7 text-right">
                             <ul class="toolbar-sl-share">
-                                <li class="opening"> <i class="flaticon-location"></i>M13, Startup Oasis, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022 </li>
+                                <li class="opening"> <i class="flaticon-location"></i>Bambala Pulia, 3rd Floor Ram Nagar, Engineers Academy Building, 100-102, Tonk Rd, near Jaipuria Mgt College, Pratap Nagar, Jaipur, Rajasthan 302033 </li>
                                 <!-- <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>

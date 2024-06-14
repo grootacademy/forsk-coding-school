@@ -89,7 +89,7 @@
                 <div class="row">
                     <div class="col-lg-5 md-mb-30">
                         <div class="contact-map2">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3561.495106521626!2d75.81170067366617!3d26.792359565255577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396dc99ec8cdd58b%3A0x646f8f540ebc9b2e!2sForsk%20Coding%20School!5e0!3m2!1sen!2sin!4v1718352861510!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d385.14250092443325!2d75.76979323158497!3d26.84620808970022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5da1022f94d%3A0xb000ff55c622564d!2sGroot%20Software!5e0!3m2!1sen!2sin!4v1718373951275!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                     <div class="col-lg-7 pl-30 lg-pl-15">

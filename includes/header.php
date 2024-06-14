@@ -132,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </li>
                                 <li>
                                     <i class="fa flaticon-call"></i>
-                                    <a href="tel:+91 8764420489"> +91 8764406928</a>
+                                    <a href="tel:+917014689538"> +91 7014689538</a>
                                 </li>
                             </ul>
                         </div>  

@@ -73,7 +73,7 @@
                           <li>
                               <i class="flaticon-call"></i>
                               <div class="desc">
-                                  <a href="tel:+91 87644 06928">+91 87644 06928</a>
+                                  <a href="tel:+917014689538">+917014689538</a>
                               </div>
                           </li>
                           <li>

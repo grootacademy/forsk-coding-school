@@ -55,6 +55,23 @@
 </div>
 <!--Full width header End-->
 
+
+<!-- whatsapp -->
+
+<div style="display: block;position: fixed; bottom: 40px; left: 20px; height: 70px;width: 70px; border-radius: 50%; background-color: #4DD376;display: flex;justify-content: center;align-items: center;z-index:2000">
+    <ul>
+        <li><a style="color: white; font-size: 50px;position: relative;left:13px;top:-10px" href="https://wa.me/917014689538" target="_blank"><i class="fa fa-whatsapp" style="position:relative; left:-15px; top:10px"></i></a></li>
+    </ul>
+
+</div>
+
+<!-- <a href="https://wa.me/919001997178" style="position: sticky;top: 400px; left: 50px;" target="_blank">
+
+</a> -->
+
+
+<!-- whatsapp end  -->
+
 <!-- Main content Start -->
 <div class="main-content" data-aos="zoom-in">
     <!-- Banner Section Start -->
@@ -527,7 +544,7 @@
 
                                         <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false">Do we offer online classes?</a>
                                     </div>
-                                    <div id="collapseTwo" class="collapse" data-parent="#accordion"  >
+                                    <div id="collapseTwo" class="collapse" data-parent="#accordion">
                                         <div class="card-body">
                                             We provide online and offline classes both. Our Recommendation is join our offline classes.
                                         </div>
@@ -538,7 +555,7 @@
 
                                         <a class="card-link collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false">Does Dmart offer internship?</a>
                                     </div>
-                                    <div id="collapseThree" class="collapse" data-parent="#accordion" >
+                                    <div id="collapseThree" class="collapse" data-parent="#accordion">
                                         <div class="card-body">
                                             Yes, We Offer internships in various technologies. But there is certain criteria to get internship.
                                         </div>
@@ -587,7 +604,7 @@
     <!-- new page 1 from old site Start  -->
 
     <div class="rs-new-page ">
-        <div class="rs-new-page-learn-to-code" >
+        <div class="rs-new-page-learn-to-code">
             <img height="120px" width="120px" src=".//assets/images/download/learntocode.png" alt="">
             <h3 style="margin-top: 10px;">Learn To Code</h3>
             <hr>
@@ -628,7 +645,7 @@
     <div class="blueprint-for-your-success">
         <div class="01">
             <h2 class="number">01</h2>
-            <h3 class="text" >Learner-First Approach</h3>
+            <h3 class="text">Learner-First Approach</h3>
         </div>
 
         <div class="01">
@@ -663,7 +680,7 @@
 
         <div class="01">
             <h2 class="number">08</h2>
-            <h3 class="text"  > Mock <br> Interview </h3>
+            <h3 class="text"> Mock <br> Interview </h3>
         </div>
 
         <div class="01">
